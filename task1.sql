@@ -15,3 +15,5 @@ CREATE TABLE payments_y2026_m04 PARTITION OF payments FOR VALUES FROM ('2026-04-
 CREATE INDEX idx_pay_date ON payments (created_at);
 CREATE INDEX idx_pay_user ON payments (user_id);
 CREATE INDEX idx_pay_status ON payments (status_code);
+
+--some info just for test
