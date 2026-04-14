@@ -27,5 +27,3 @@ END;
 $$;
 
 CALL seed_payment_data(150000);
-
---some info just for test
