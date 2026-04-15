@@ -32,3 +32,5 @@ CALL seed_payment_data(150000);
 --some change for pull test
 --ababababa
 --conflict pull
+--before ammend
+--after amend
