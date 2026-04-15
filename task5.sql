@@ -24,3 +24,5 @@ SELECT cron.schedule(
     '3 seconds', 
     'SELECT job_update_status_by_parity_of_seconds_every_3s()'
 );
+
+--change 3
