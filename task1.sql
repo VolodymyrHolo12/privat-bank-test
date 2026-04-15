@@ -17,3 +17,4 @@ CREATE INDEX idx_pay_user ON payments (user_id);
 CREATE INDEX idx_pay_status ON payments (status_code);
 
 --change 1
+--some change from test
