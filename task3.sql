@@ -18,3 +18,5 @@ $$;
 CREATE TRIGGER trg_ensure_unique_op
 BEFORE INSERT ON payments
 FOR EACH ROW EXECUTE FUNCTION fn_enforce_unique_operation();
+
+--change 1
