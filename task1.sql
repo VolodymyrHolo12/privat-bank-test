@@ -18,3 +18,11 @@ CREATE INDEX idx_pay_status ON payments (status_code);
 
 --change 1
 --some change from test
+
+--git status
+--git commit [-a] -m
+--git push
+--git pull
+--git rebase -i / --continue / --abort / --skip
+--git log
+--git cherry-pick
